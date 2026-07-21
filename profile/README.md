@@ -15,7 +15,7 @@ Operated by Bayarcash Sdn. Bhd. (202201040365).
 | [BCL.my](https://bcl.my) | Create QR terminals, payment forms, and payment links in minutes |
 | [Beri Salam](https://berisalam.com) | Donation management — fundraising, reporting, and donor relationship tools |
 | [Korban Plus](https://korbanplus.com) | Digital platform for managing korban and aqiqah programs |
-| [SubmiteInvoice](https://submiteinvoice.com) | LHDN-compliant e-Invoicing for Malaysian businesses |
+| [Submit eInvoice](https://submiteinvoice.com) | LHDN-compliant e-Invoicing for Malaysian businesses |
 
 ## Developer resources
 
