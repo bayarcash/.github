@@ -12,10 +12,11 @@ Operated by Bayarcash Sdn. Bhd. (202201040365).
 
 | Resource | Description |
 |---|---|
-| [Documentation](https://docs.bayarcash.com) | API reference and integration guides |
+| [API reference](https://api.webimpian.support/bayarcash) | REST API endpoint reference |
+| [Platform docs](https://docs.bayarcash.com) | Platform documentation and integration guides |
+| [Plugins](https://plugin.bayarcash.com) | Official plugins for WordPress, WooCommerce, and more |
 | [php-sdk](https://github.com/bayarcash/php-sdk) | Official PHP SDK — `composer require bayarcash/php-sdk` ([Packagist](https://packagist.org/packages/bayarcash/php-sdk)) |
 | [php-demo](https://github.com/bayarcash/php-demo) | Demo integration using vanilla PHP |
-| [WordPress plugin](https://wordpress.org/plugins/bayarcash/) | Accept payments on WordPress and WooCommerce |
 | [n8n-nodes-bayarcash](https://github.com/bayarcash/n8n-nodes-bayarcash) | Bayarcash node for n8n workflow automation |
 | [n8n-nodes-bcl](https://github.com/bayarcash/n8n-nodes-bcl) | Bayarcash Commerce Link node for n8n |
 
