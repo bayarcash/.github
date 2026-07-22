@@ -30,6 +30,7 @@ Feature-parity SDKs for the Bayarcash Payment Gateway API.
 | [Rust](https://github.com/bayarcash/rust-sdk) | [`bayarcash`](https://crates.io/crates/bayarcash) | `cargo add bayarcash` |
 | [Go](https://github.com/bayarcash/go-sdk) | [`go-sdk`](https://pkg.go.dev/github.com/bayarcash/go-sdk) | `go get github.com/bayarcash/go-sdk` |
 | [Python](https://github.com/bayarcash/python-sdk) | [`bayarcash`](https://pypi.org/project/bayarcash/) | `pip install bayarcash` |
+| [Django](https://github.com/bayarcash/django) | [`django-bayarcash`](https://pypi.org/project/django-bayarcash/) | `pip install django-bayarcash` |
 | [Dart / Flutter](https://github.com/bayarcash/dart-sdk) | [`bayarcash`](https://pub.dev/packages/bayarcash) | `dart pub add bayarcash` |
 | [C# / .NET](https://github.com/bayarcash/dotnet-sdk) | [`Bayarcash`](https://www.nuget.org/packages/Bayarcash) | `dotnet add package Bayarcash` |
 
