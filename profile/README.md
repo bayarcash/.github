@@ -17,6 +17,19 @@ Operated by Bayarcash Sdn. Bhd. (202201040365).
 | [Korban Plus](https://korbanplus.com) | Digital platform for managing korban and aqiqah programs |
 | [Submit eInvoice](https://submiteinvoice.com) | LHDN-compliant e-Invoicing for Malaysian businesses |
 
+## Official SDKs
+
+Feature-parity SDKs for the Bayarcash Payment Gateway API.
+
+| Language | Package | Install |
+|---|---|---|
+| [PHP](https://github.com/bayarcash/php-sdk) | [`bayarcash/php-sdk`](https://packagist.org/packages/bayarcash/php-sdk) | `composer require bayarcash/php-sdk` |
+| [Laravel](https://github.com/bayarcash/laravel) | [`bayarcash/laravel`](https://packagist.org/packages/bayarcash/laravel) | `composer require bayarcash/laravel` |
+| [Node.js / TypeScript](https://github.com/bayarcash/node-sdk) | [`bayarcash`](https://www.npmjs.com/package/bayarcash) | `npm install bayarcash` |
+| [Ruby](https://github.com/bayarcash/ruby-sdk) | [`bayarcash`](https://rubygems.org/gems/bayarcash) | `gem install bayarcash` |
+| [Rust](https://github.com/bayarcash/rust-sdk) | [`bayarcash`](https://crates.io/crates/bayarcash) | `cargo add bayarcash` |
+| [Go](https://github.com/bayarcash/go-sdk) | [`go-sdk`](https://pkg.go.dev/github.com/bayarcash/go-sdk) | `go get github.com/bayarcash/go-sdk` |
+
 ## Developer resources
 
 | Resource | Description |
@@ -24,7 +37,6 @@ Operated by Bayarcash Sdn. Bhd. (202201040365).
 | [API reference](https://api.webimpian.support/bayarcash) | REST API endpoint reference |
 | [Platform docs](https://docs.bayarcash.com) | Platform documentation and integration guides |
 | [Plugins](https://plugin.bayarcash.com) | Official plugins for WordPress, WooCommerce, and more |
-| [php-sdk](https://github.com/bayarcash/php-sdk) | Official PHP SDK — `composer require bayarcash/php-sdk` ([Packagist](https://packagist.org/packages/bayarcash/php-sdk)) |
 | [php-demo](https://github.com/bayarcash/php-demo) | Demo integration using vanilla PHP |
 | [n8n-nodes-bayarcash](https://github.com/bayarcash/n8n-nodes-bayarcash) | Bayarcash node for n8n workflow automation |
 | [n8n-nodes-bcl](https://github.com/bayarcash/n8n-nodes-bcl) | Bayarcash Commerce Link node for n8n |
