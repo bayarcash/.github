@@ -44,9 +44,10 @@
 
 <p>
   <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/spaylater.png" alt="SPayLater" title="SPayLater" height="28">
+  &nbsp;&nbsp;&nbsp;
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/grabpaylater-dark.svg">
-    <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/grabpaylater.svg" alt="PayLater by Grab" title="PayLater by Grab" height="22">
+    <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/grabpaylater.svg" alt="PayLater by Grab" title="PayLater by Grab" height="25">
   </picture>
 </p>
 
