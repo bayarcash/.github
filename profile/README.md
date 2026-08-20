@@ -56,7 +56,14 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/duitnow-qr-dark.png">
     <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/duitnow-qr.png" alt="DuitNow QR" title="DuitNow QR" height="44">
   </picture>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/qris.svg" alt="QRIS" title="QRIS — Indonesia" height="36">
+  <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/alipayplus.svg" alt="Alipay+" title="Alipay+" height="36">
+  <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/nets.svg" alt="NETS" title="NETS — Singapore" height="36">
+  <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/wechat.svg" alt="WeChat Pay" title="WeChat Pay" height="36">
+</p>
+
+<p>
   <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/direct-debit.svg" alt="FPX Direct Debit" title="FPX Direct Debit" height="30">
 </p>
 
