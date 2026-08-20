@@ -35,6 +35,7 @@
 <p>
   <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/visa.svg" alt="Visa" title="Visa" height="36">
   <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/mastercard.svg" alt="Mastercard" title="Mastercard" height="36">
+  <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/mydebit-secure.png" alt="MyDebit Secure" title="MyDebit Secure" height="36">
   <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/tng.svg" alt="Touch ’n Go eWallet" title="Touch ’n Go eWallet" height="36">
   <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/boost.svg" alt="Boost" title="Boost" height="36">
   <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/grabpay.svg" alt="GrabPay" title="GrabPay" height="36">
