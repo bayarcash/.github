@@ -2,6 +2,7 @@
 
 <p>
   <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/fpx.svg" alt="FPX" title="FPX" height="44">
+  <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/duitnow.svg" alt="DuitNow" title="DuitNow" height="44">
 </p>
 
 <p>
@@ -32,7 +33,6 @@
 </p>
 
 <p>
-  <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/duitnow.svg" alt="DuitNow" title="DuitNow" height="36">
   <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/visa.svg" alt="Visa" title="Visa" height="36">
   <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/mastercard.svg" alt="Mastercard" title="Mastercard" height="36">
   <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/tng.svg" alt="Touch ’n Go eWallet" title="Touch ’n Go eWallet" height="36">
