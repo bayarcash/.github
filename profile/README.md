@@ -84,7 +84,7 @@ WordPress plugins are published on WordPress.org under
 
 | Resource | Description |
 |---|---|
-| [API reference](https://developers.bayarcash.com) | Interactive reference for API v3 |
+| [API reference](https://api-reference.bayarcash.com) | Interactive reference for API v3 |
 | [Platform docs](https://docs.bayarcash.com) | Platform documentation and integration guides |
 | [Plugins](https://plugin.bayarcash.com) | Official plugins for WordPress, WooCommerce, and more |
 | [Live demos](https://bayarcash-demo.com) | Working demo stores across supported platforms |
