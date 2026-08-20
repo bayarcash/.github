@@ -1,5 +1,18 @@
 # Bayarcash
 
+<p>
+  <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/fpx.svg" alt="FPX" title="FPX" height="40">
+  <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/duitnow.svg" alt="DuitNow" title="DuitNow" height="40">
+  <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/visa.svg" alt="Visa" title="Visa" height="40">
+  <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/mastercard.svg" alt="Mastercard" title="Mastercard" height="40">
+  <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/tng.svg" alt="Touch ’n Go eWallet" title="Touch ’n Go eWallet" height="40">
+  <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/boost.svg" alt="Boost" title="Boost" height="40">
+  <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/grabpay.svg" alt="GrabPay" title="GrabPay" height="40">
+  <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/shopeepay.svg" alt="ShopeePay" title="ShopeePay" height="40">
+  <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/atome.svg" alt="Atome" title="Atome" height="40">
+  <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/nets.svg" alt="NETS" title="NETS" height="40">
+</p>
+
 **Payment gateway & commerce platform for Malaysian businesses.**
 
 Bayarcash helps Malaysian businesses accept payments through FPX, DuitNow Online
