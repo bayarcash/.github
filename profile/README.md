@@ -50,6 +50,8 @@
   </picture>
 </p>
 
+<hr>
+
 **Payment gateway & commerce platform for Malaysian businesses.**
 
 Bayarcash helps Malaysian businesses accept payments through FPX, DuitNow Online
