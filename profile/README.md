@@ -1,11 +1,8 @@
 # Bayarcash
 
 <p>
-  <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/fpx.svg" alt="FPX" title="FPX" height="44">
-  <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/duitnow.svg" alt="DuitNow" title="DuitNow" height="44">
-</p>
-
-<p>
+  <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/fpx.svg" alt="FPX" title="FPX" height="36">
+  <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/duitnow.svg" alt="DuitNow" title="DuitNow" height="36">
   <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/maybank.svg" alt="Maybank" title="Maybank" height="36">
   <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/cimb.svg" alt="CIMB Bank" title="CIMB Bank" height="36">
   <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/public-bank.svg" alt="Public Bank" title="Public Bank" height="36">
