@@ -42,6 +42,14 @@
   <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/shopeepay.svg" alt="ShopeePay" title="ShopeePay" height="36">
 </p>
 
+<p>
+  <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/spaylater.png" alt="SPayLater" title="SPayLater" height="28">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/grabpaylater-dark.svg">
+    <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/grabpaylater.svg" alt="PayLater by Grab" title="PayLater by Grab" height="28">
+  </picture>
+</p>
+
 **Payment gateway & commerce platform for Malaysian businesses.**
 
 Bayarcash helps Malaysian businesses accept payments through FPX, DuitNow Online
