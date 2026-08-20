@@ -1,71 +1,13 @@
 # Bayarcash
 
-<p>
-  <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/fpx.svg" alt="FPX" title="FPX" height="36">
-  <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/duitnow.svg" alt="DuitNow" title="DuitNow" height="36">
-  <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/maybank.svg" alt="Maybank" title="Maybank" height="36">
-  <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/cimb.svg" alt="CIMB Bank" title="CIMB Bank" height="36">
-  <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/public-bank.svg" alt="Public Bank" title="Public Bank" height="36">
-  <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/rhb.svg" alt="RHB Bank" title="RHB Bank" height="36">
-  <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/hongleong-bank.svg" alt="Hong Leong Bank" title="Hong Leong Bank" height="36">
-  <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/ambank.svg" alt="AmBank" title="AmBank" height="36">
-  <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/bank-islam.svg" alt="Bank Islam" title="Bank Islam" height="36">
-  <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/bank-rakyat.svg" alt="Bank Rakyat" title="Bank Rakyat" height="36">
-  <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/affin-bank.svg" alt="Affin Bank" title="Affin Bank" height="36">
-  <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/alliance-bank.svg" alt="Alliance Bank" title="Alliance Bank" height="36">
-  <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/bsn.svg" alt="Bank Simpanan Nasional" title="Bank Simpanan Nasional" height="36">
-  <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/agrobank.svg" alt="Agrobank" title="Agrobank" height="36">
-  <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/bank-muamalat.svg" alt="Bank Muamalat" title="Bank Muamalat" height="36">
-  <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/ocbc.svg" alt="OCBC Bank" title="OCBC Bank" height="36">
-  <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/hsbc.svg" alt="HSBC" title="HSBC" height="36">
-  <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/standard-chartered.svg" alt="Standard Chartered" title="Standard Chartered" height="36">
-  <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/uob.svg" alt="UOB" title="UOB" height="36">
-  <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/citi-bank.svg" alt="Citibank" title="Citibank" height="36">
-  <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/kuwait-finance-house.svg" alt="Kuwait Finance House" title="Kuwait Finance House" height="36">
-  <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/aeon-bank.svg" alt="AEON Bank" title="AEON Bank" height="36">
-  <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/gx-bank.svg" alt="GXBank" title="GXBank" height="36">
-  <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/boost-bank.svg" alt="Boost Bank" title="Boost Bank" height="36">
-  <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/bnpparibas-bank.svg" alt="BNP Paribas" title="BNP Paribas" height="36">
-  <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/deutsche-bank.svg" alt="Deutsche Bank" title="Deutsche Bank" height="36">
-</p>
-
-<p>
-  <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/visa.svg" alt="Visa" title="Visa" height="36">
-  <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/mastercard.svg" alt="Mastercard" title="Mastercard" height="36">
-  <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/mydebit-secure.png" alt="MyDebit Secure" title="MyDebit Secure" height="36">
-</p>
-
-<p>
-  <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/tng.svg" alt="Touch ’n Go eWallet" title="Touch ’n Go eWallet" height="36">
-  <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/boost.svg" alt="Boost" title="Boost" height="36">
-  <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/grabpay.svg" alt="GrabPay" title="GrabPay" height="36">
-  <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/shopeepay.svg" alt="ShopeePay" title="ShopeePay" height="36">
-</p>
-
-<p>
-  <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/spaylater.png" alt="SPayLater" title="SPayLater" height="28">
-  &nbsp;&nbsp;&nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/grabpaylater-dark.svg">
-    <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/grabpaylater.svg" alt="PayLater by Grab" title="PayLater by Grab" height="25">
-  </picture>
-</p>
-
-<p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/duitnow-qr-dark.png">
-    <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/duitnow-qr.png" alt="DuitNow QR" title="DuitNow QR" height="44">
-  </picture>
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/qris.svg" alt="QRIS" title="QRIS — Indonesia" height="36">
-  <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/alipayplus.svg" alt="Alipay+" title="Alipay+" height="36">
-  <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/nets.svg" alt="NETS" title="NETS — Singapore" height="36">
-  <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/wechat.svg" alt="WeChat Pay" title="WeChat Pay" height="36">
-</p>
-
-<p>
-  <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/direct-debit.svg" alt="FPX Direct Debit" title="FPX Direct Debit" height="30">
-</p>
+| Payment method | Supported |
+|---|---|
+| **Online Banking** | <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/fpx.svg" alt="FPX" title="FPX" height="32"> <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/duitnow.svg" alt="DuitNow" title="DuitNow" height="32"> <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/maybank.svg" alt="Maybank" title="Maybank" height="32"> <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/cimb.svg" alt="CIMB Bank" title="CIMB Bank" height="32"> <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/public-bank.svg" alt="Public Bank" title="Public Bank" height="32"> <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/rhb.svg" alt="RHB Bank" title="RHB Bank" height="32"> <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/hongleong-bank.svg" alt="Hong Leong Bank" title="Hong Leong Bank" height="32"> <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/ambank.svg" alt="AmBank" title="AmBank" height="32"> <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/bank-islam.svg" alt="Bank Islam" title="Bank Islam" height="32"> <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/bank-rakyat.svg" alt="Bank Rakyat" title="Bank Rakyat" height="32"> <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/affin-bank.svg" alt="Affin Bank" title="Affin Bank" height="32"> <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/alliance-bank.svg" alt="Alliance Bank" title="Alliance Bank" height="32"> <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/bsn.svg" alt="Bank Simpanan Nasional" title="Bank Simpanan Nasional" height="32"> <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/agrobank.svg" alt="Agrobank" title="Agrobank" height="32"> <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/bank-muamalat.svg" alt="Bank Muamalat" title="Bank Muamalat" height="32"> <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/ocbc.svg" alt="OCBC Bank" title="OCBC Bank" height="32"> <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/hsbc.svg" alt="HSBC" title="HSBC" height="32"> <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/standard-chartered.svg" alt="Standard Chartered" title="Standard Chartered" height="32"> <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/uob.svg" alt="UOB" title="UOB" height="32"> <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/citi-bank.svg" alt="Citibank" title="Citibank" height="32"> <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/kuwait-finance-house.svg" alt="Kuwait Finance House" title="Kuwait Finance House" height="32"> <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/aeon-bank.svg" alt="AEON Bank" title="AEON Bank" height="32"> <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/gx-bank.svg" alt="GXBank" title="GXBank" height="32"> <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/boost-bank.svg" alt="Boost Bank" title="Boost Bank" height="32"> <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/bnpparibas-bank.svg" alt="BNP Paribas" title="BNP Paribas" height="32"> <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/deutsche-bank.svg" alt="Deutsche Bank" title="Deutsche Bank" height="32"> |
+| **Card Schemes** | <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/visa.svg" alt="Visa" title="Visa" height="32"> <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/mastercard.svg" alt="Mastercard" title="Mastercard" height="32"> <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/mydebit-secure.png" alt="MyDebit Secure" title="MyDebit Secure" height="32"> |
+| **eWallet** | <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/tng.svg" alt="Touch ’n Go eWallet" title="Touch ’n Go eWallet" height="32"> <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/boost.svg" alt="Boost" title="Boost" height="32"> <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/grabpay.svg" alt="GrabPay" title="GrabPay" height="32"> <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/shopeepay.svg" alt="ShopeePay" title="ShopeePay" height="32"> |
+| **Buy Now Pay Later (BNPL)** | <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/spaylater.png" alt="SPayLater" title="SPayLater" height="26"> &nbsp; <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/grabpaylater-dark.svg"><img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/grabpaylater.svg" alt="PayLater by Grab" title="PayLater by Grab" height="23"></picture> |
+| **DuitNow QR &amp; Cross-Border QR** | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/duitnow-qr-dark.png"><img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/duitnow-qr.png" alt="DuitNow QR" title="DuitNow QR" height="40"></picture> &nbsp; <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/qris.svg" alt="QRIS" title="QRIS" height="32"> <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/alipayplus.svg" alt="Alipay+" title="Alipay+" height="32"> <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/nets.svg" alt="NETS" title="NETS" height="32"> <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/wechat.svg" alt="WeChat Pay" title="WeChat Pay" height="32"> |
+| **Recurring** | <img src="https://raw.githubusercontent.com/bayarcash/.github/main/profile/assets/payment/direct-debit.svg" alt="FPX Direct Debit" title="FPX Direct Debit" height="27"> |
 
 <hr>
 
